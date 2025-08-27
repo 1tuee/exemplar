@@ -1,0 +1,21 @@
+{
+  "master_volume": 1.0,
+  "music_volume": 0.7,
+  "sfx_volume": 0.8,
+  "fullscreen": true,
+  "vsync": true,
+  "show_fps": false,
+  "difficulty": 1.0,
+  "auto_save": true,
+  "key_bindings": {
+    "move_up": 119,
+    "move_down": 115,
+    "move_left": 97,
+    "move_right": 100,
+    "attack": 32,
+    "special": 113,
+    "interact": 101,
+    "inventory": 105,
+    "pause": 27
+  }
+}

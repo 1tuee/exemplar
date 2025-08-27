@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "timestamp": 1756080541.0493696,
+  "level": 1,
+  "biome": "facility",
+  "player": {
+    "position": [
+      1445.3969029336374,
+      867.40432201271
+    ],
+    "level": 1,
+    "experience": 0,
+    "stats": {
+      "health": 100,
+      "max_health": 100,
+      "mana": 100,
+      "max_mana": 100,
+      "attack_damage": 25,
+      "defense": 10,
+      "speed": 150
+    },
+    "inventory": []
+  },
+  "world": {
+    "cleared_rooms": [],
+    "wave": 1
+  }
+}
